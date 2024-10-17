@@ -1,39 +1,38 @@
 #level 4
 
 print("goa best")
-#esaa printis brwkalebi da frcxilebii
+#printის ბრჭყალები და ფრჩხილები
 
 name = "gvanca"
-#esaa variables brwkalebi anu cvladis
+#variable–ს ბრჭყალები ანუ ცვლადის
 
 print(10)
-#ricxvis shemtxvevashi brwkalebi araa sawiro
-#shegvidzlia ricxvebi brwkalebshic cavsvat
+#რიცხვის შემთხვევაშ ბრჭყალები არაა საჭირო
+#შეგვიძლია რიცხვები ბრჭყალებშიც ჩავსვათ
 print("10")
 
-# monacemta tipi (data type)
-#monacemta ererti tipi (string-str)-agnishnavs brwkalebshi moqceul teqsts
-#strings viyenebt teqstebtan mushaobis dros anu stringi aris monacemta tipi
+#მონაცემთა ტიპი (data type) 
+#მონაცემთა ტიპი (string-str)-აღნიშნავს ბრჭყალებში მოცემულ ტექსტს
+#string–ს ვიყენებთ ტექსტებთან მუშობის დროს
 
 
-#monacemta kidev erti tipia (integer-int
-#integeri agnishnavs mtel ricxvs da viyenebt mtel ricxvebtan mushaobis dros
+#მონაცემთა ტიპი (integer-int)
+#integer–ი აღნიშნავს მთელ რიცხვს და ვიყენებთ მთელ რიცხვებთან მუშაობის დროს
 
 
-#kide gvaq(float-float)is agniSnavs atwilad ricxvebs
+#მონაცემთა ტიპი(float-float)
+#აღნიშნავს ათწილად ნიშნებს
 
-#tu ramdenime winadadebis dakomentareba gvinda ertdroulad unda movnishnot isini da davawirot (ctrl + ?)
-
-#unda gavaketot funqcia romelic sheqmnis xinkals
+#თუ რამდენიმე წინადადების დაკომენტარება გვინდა ერთდროულად, ვნიშნავთ სასურველს და ვაჭერთ (ctrl + ?)
 
 
 
 name = "gvanca"
 surname = "kopadze"
 
-#konkatinacia(concatination)- stringebis sheerteba 
+#კონკატინაცია(concatination)- string–ების შეერთბა
 print(name + surname)
-#= igive
+#= იგივე
 print("gvanca" + "kopadze")
 
 
@@ -54,12 +53,8 @@ print(num5 + num6)
 print(num5 - num6)
 print(num5 * num6)
 print(num5 / num6)
-#intejerebze da floatebze  sruldeba matematikuri moqmedebebi
+#intejer–ებზე და float-ებზე  სრულდება მათემატიკური მოქმედებები
 
 print(name + num1)
 
-#Sheqmenit yvela monacemta tipis cvladi da dabewdet shemdeg sheqmenit 2 cvali romlis mnishvnelobac iqneba intejerebi shemdeg amtze sheasrulet matematikuri moqmedebebi
 
-# #დავალება
-# დავალება: პითონში ცვლადებით ჩამოწერეთ შუშანიკის წამების პერსონაჟები
-#დავალება 2: დაპრინტეთ ვეფხისტყაოსნის სტროფების რაოდენობა (თქვენით დათვალეთ)
