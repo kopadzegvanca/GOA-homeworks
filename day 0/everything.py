@@ -5,7 +5,7 @@ print("Welcome")
 #The print() instruction is the easiest way to send a message to the screen or other display device.
 print("Level Up!")
 #The print() instruction requires the use of parentheses() around the message.
-#Make sure you use quotation marks""" around the text messages.
+#Make sure you use quotation marks"" around the text messages.
 #If you miss the quotation marks around the text the computer won't understand your instructions.
 
 #Humans use code to give instructions to machines.

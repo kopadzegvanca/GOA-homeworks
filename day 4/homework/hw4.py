@@ -1,9 +1,4 @@
-#4)დაწერეთ პროგრამა სადაც მომხმარებელს შემოატანინებთ ინფორმაციას თავის თავზე (name,surname,age,address,gmail) და შემდეგ დაუპრინტეთ ეს ინფორმაცია ერთ დიდ წინადადებად
+#4) დაადეკლარირეთ ინტეჯერ ტიპის ცვლადი სახელად x რომელსაც თავდაპირველი მნიშვნელობა იქნება 15 შემდეგ მიუმატეთ 5 და ისე დაბეჭდეთ ცვლადი
 
-name = "giorgi"
-surname = "maisuradze"
-age = 16
-address = "georgia,tbilisi"
-gmail = "giorgimaisuradze12@gmail.com"
-
-print("I'm " + name + " " + surname + ", " + str(age) + " years old. " + "my address is " + address + " and my email is " + gmail + ".")
+x = 15
+print(x + 5)

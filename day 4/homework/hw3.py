@@ -1,9 +1,2 @@
-#3)დაწერე პროგრამა, რომელიც integer ტიპს float ტიპად გადააქცევს
-
-num = 97
-number = float(num)
-print(number)
-
-print(type(num))
-print(type(number))
-
+#3) დაადეკლარირეთ float ტიპის ცვლადი სახელად height რომელსაც მიანიჭებთ მნიშვმელობად თქვენს სიმაღლეს
+height = 165.5
