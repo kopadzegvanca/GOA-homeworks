@@ -3,10 +3,10 @@
 num = int(input("Enter Your Namber:"))
 
 if num == 0:
-    print("number is zero")
+    print("number is zero.")
 
 elif num > 0:
-    print("number is positive")
+    print("number is positive.")
 
 elif num < 0:
-    print("number is negative")
+    print("number is negative.")

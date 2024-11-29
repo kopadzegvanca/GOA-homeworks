@@ -1,6 +1,6 @@
 # 4)გამოიყენეთ if  რათა გაიგოთ  თუ ცხოველი არის , კატა თუ თაგვი.
 
-animal = input("Enter Your Pet:")
+animal = input("Choose cat or mouse:")
 
 if animal == "mouse":
     print("your pet is mouse")
