@@ -5,5 +5,6 @@ name = input("Please Enter Your Name: ")
 
 if name == "გვანცა":
     print("we have the same names.")
+
 else:
     print("nice to meet you.")    

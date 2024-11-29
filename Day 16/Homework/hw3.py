@@ -4,7 +4,9 @@ age =int(input("Please Enter Your Age: "))
 
 if age < 16:
     print("i am older that you.")
+
 elif age > 16:
     print("I am younger that you.")    
+
 else:
     print("we are peer.")    

@@ -4,5 +4,6 @@ drink = input("aris mineraluri wkali?: ")
 
 if drink == "ki":
     print("aris")
+
 elif drink == "ara":
     print("ar aris")    
