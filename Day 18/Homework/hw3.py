@@ -5,6 +5,6 @@ num = int(input("Enter Number: "))
 
 
 if num % 2 == 0:
-    print("luwia")
+    print("luwia.")
 else:
-    print("kentia")
+    print("kentia.")

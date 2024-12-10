@@ -3,8 +3,8 @@
 age = int(input("Please Enter Your Age: "))
 
 if age > 16:
-    print("You are such a big boy or girl.")
+    print("You are such a big boy or girl")
 
 else:
-    print("you will grow soon.")    
+    print("you will grow soon")    
     17

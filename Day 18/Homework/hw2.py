@@ -3,6 +3,6 @@
 num = int(input("Enter Number: "))
 
 if num % 5 == 0:
-    print("aris 5is jeradi")
+    print("aris 5 is jeradi")
 else:
-    print("ar aris 5is jeradi")    
+    print("ar aris 5 is jeradi")    

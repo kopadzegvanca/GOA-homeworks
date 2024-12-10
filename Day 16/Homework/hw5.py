@@ -3,10 +3,10 @@
 weight = float(input("Please Enter Your Weight: "))
 
 if weight > 10 and weight < 20:
-    print("You have to drink half a pill a day.")
+    print("You have to drink half a pill a day")
 
 elif weight > 30 and weight < 40:
-    print("you have to drink one pill twice a day.")   
+    print("you have to drink one pill twice a day")   
 
 elif weight > 45:
-    print("you have to drink thri pills twice a day.")     
+    print("you have to drink thri pills twice a day")     

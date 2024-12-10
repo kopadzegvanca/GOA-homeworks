@@ -4,7 +4,7 @@ kurtka = True
 fexsacmeli = True
 
 if kurtka and fexsacmeli:
-    print("You can enter.")
+    print("You can enter")
 
 else:
-    print("stop.")   
+    print("stop")   

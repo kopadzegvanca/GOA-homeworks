@@ -3,6 +3,6 @@
 
 num = int(input("Enter Number: "))
 
-for i in range(num):
+for i in range(num) :
     if i % 5 == 0:
         print(i)

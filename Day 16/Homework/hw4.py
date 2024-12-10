@@ -4,7 +4,7 @@ height = float(input("Pleas Enter Your Height: "))
 weight = float(input("Please Enter Your Weight: "))
 
 if height > 180 and weight > 50 and weight < 90:
-    print("Welcome.")
+    print("Welcome")
 
 else:
-    print("maybe next time.")       
+    print("maybe next time")       

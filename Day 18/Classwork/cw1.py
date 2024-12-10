@@ -14,7 +14,7 @@ for i in range (10):
 
 
 for i in range (99):
-    print(str(i) + "ily")
+    print(str(i) + " I LOVE YOU ")
 
 
 for i in range(5):
