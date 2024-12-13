@@ -4,6 +4,6 @@
 num = int(input("Enter Number: "))
 
 if num % 3 == 0:
-    print("aris 3 is jeradi")
+    print("aris 3is jeradi")
 else:
-    print("ar aris 3 is jeradi")    
+    print("ar aris 3is jeradi")    

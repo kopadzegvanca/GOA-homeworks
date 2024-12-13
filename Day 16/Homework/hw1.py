@@ -3,7 +3,7 @@
 
 name = input("Please Enter Your Name: ")
 
-if name == "გვანცა":
+if name == "gvanca":
     print("we have the same names")
 
 else:
