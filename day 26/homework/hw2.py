@@ -10,12 +10,9 @@ print(fruit_list[2])
 print(fruit_list[6])
 
 #2
-print(fruit_list[0])
-print(fruit_list[1])
-print(fruit_list[2])
-print(fruit_list[3])
+print(fruit_list[:4])
+
 
 #3
-print(fruit_list[5])
-print(fruit_list[6])
-print(fruit_list[7])
+print(fruit_list[-3:])
+

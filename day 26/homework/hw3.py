@@ -10,14 +10,11 @@ print(city_list[1])
 print(city_list[5])
 
 #2
-print(city_list[2])
-print(city_list[3])
+print(city_list[2:3])
+
 
 #3
-print(city_list[5])
-print(city_list[3])
-print(city_list[0])
-print(city_list[4])
-print(city_list[1])
-print(city_list[2])
+city_list.reverse()
+print(city_list)
+
 
