@@ -8,3 +8,5 @@ print(num_list[8])
 print(num_list[11])
 print(num_list[14])
 print(num_list[17])
+
+print(num_list[2::3])
